@@ -7,11 +7,11 @@ Hier steht etwas Text.
 Hier steht etwas Text.
 Hier steht etwas Text.
 
-<html>
-<img scr="roman-designer.github.io/kleine_Hexe.jpg">
 
-<a href="roman-designer.github.io/index.md">Link</a>
-</html>
+<img scr="kleine_Hexe.jpg">
+
+<a href="index.html">Link</a>
+
 
 1.  Listenpunkt
 1.  Listenpunkt
