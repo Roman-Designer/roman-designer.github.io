@@ -9,7 +9,7 @@ Hier steht etwas Text.
 
 <img scr="roman-designer.github.io/kleine_Hexe.jpg">
 
-<a href="roman-designer.github.io/details.md">Link</a>
+<a href="roman-designer.github.io/index.md">Link</a>
 
 1.  Listenpunkt
 1.  Listenpunkt
